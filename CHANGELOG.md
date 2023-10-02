@@ -4,3 +4,4 @@
 - 2023-10-01: add collection config
 - 2023-10-01: improve error handling in deploy script
 - 2023-10-01: reduce contract size
+- 2023-10-02: update contract compiler
