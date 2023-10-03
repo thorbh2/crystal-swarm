@@ -7,3 +7,4 @@
 - 2023-10-02: update contract compiler
 - 2023-10-02: reduce contract size
 - 2023-10-02: tweak gas limits in config
+- 2023-10-03: clean up unused imports
