@@ -11,3 +11,4 @@
 - 2023-10-03: clean up unused imports
 - 2023-10-06: refactor contract for gas efficiency
 - 2023-10-06: update license headers
+- 2023-10-06: add CI workflow
