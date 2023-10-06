@@ -9,3 +9,4 @@
 - 2023-10-02: tweak gas limits in config
 - 2023-10-03: clean up unused imports
 - 2023-10-03: clean up unused imports
+- 2023-10-06: refactor contract for gas efficiency
